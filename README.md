@@ -24,8 +24,6 @@
 - [RFV projeto](https://github.com/Jefersonfranca/rfv-projeto)
 - [Projeto Finanças](https://github.com/Jefersonfranca/projeto_financas)
 
-**Projetos**
-
 * **Machine Learning**: Um repositório com exemplos de machine learning utilizando Python e bibliotecas como Scikit learn e TensorFlow.
 * **Data Science**: Um repositório com exemplos de data science utilizando Python, Pandas e NumPy.
 
